@@ -1,0 +1,24 @@
+{
+  "name": "phpcsvDemoClient/phpcsvDemoClient",
+  "description": "Client",
+  "keywords": ["" ],
+  "homepage": "https://github.com/AbderrazakTGT/php-export-client.git",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AbderrazakTGT",
+      "email": "abderrazak.tigiti@gmail.com",
+      "homepage": ""
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/phpcsvDemoClient.php"
+    ]
+  },
+  "require": {
+    "php": ">=5.4",
+    "phpcsvDemo/phpcsvDemo" : "1.0.0"
+    
+  }
+}
