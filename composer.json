@@ -17,8 +17,7 @@
     ]
   },
   "require": {
-    "php": "5.4",
-    "qc/qc-redirects" : "1.0.0"
+    "php": "5.4"
     
   }
 }
